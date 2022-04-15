@@ -1,1 +1,0 @@
-import{t as n}from"./throttle.67c96515.js";import{x as f,e as m,I as s}from"./plugin-vue_export-helper.cdf78444.js";function v(r,e){var a;const u=f(r),l=(a=e==null?void 0:e.wait)!=null?a:1e3,t=m(()=>n((...c)=>u.value([...c]),l,e));return s(()=>{t.value.cancel()}),{run:t,cancel:t.value.cancel,flush:t.value.flush}}export{v as u};
