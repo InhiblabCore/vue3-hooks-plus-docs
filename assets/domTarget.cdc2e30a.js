@@ -1,0 +1,1 @@
+import{M as o}from"./plugin-vue_export-helper.cdf78444.js";import{i as r}from"./isBrowser.2609af58.js";function l(e,f){if(!r)return;if(!e)return f;let i;return typeof e=="function"?i=e():o(e)?i=e.value:i=e,i}export{l as g};
