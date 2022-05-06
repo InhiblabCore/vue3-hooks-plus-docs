@@ -1,0 +1,1 @@
+import{x as s,z as a,M as u}from"./plugin-vue_export-helper.cdf78444.js";function o(r,e,t){const m=t==null?void 0:t.immediate,f=s(r);a(i=>{if(u(e)){if(typeof e.value!="number"||e.value<0)return}else if(typeof e!="number"||e<0)return;m&&f.value();const c=u(e)?e.value:e,n=setTimeout(()=>{f.value()},c);i(()=>{clearInterval(n)})})}export{o as u};
