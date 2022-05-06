@@ -1,0 +1,1 @@
+import{y as o,P as s,n as t}from"./plugin-vue_export-helper.cdf78444.js";function r(n=()=>{}){const e=()=>{t(()=>{n()})};return o(()=>{window.addEventListener("resize",e,!1)}),s(()=>{window.removeEventListener("resize",e)}),null}export{r as u};
